@@ -1,5 +1,12 @@
+this is the final file reporting.
+
 this is my first file.
+<<<<<<< HEAD
 
 Hi from second user.
 
 
+=======
+Editing this file second time
+commiting it third time.
+>>>>>>> d312b3cf6f9475a69a68f32695b626a6589e5db8
